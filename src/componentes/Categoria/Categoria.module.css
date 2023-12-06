@@ -39,8 +39,8 @@
     }
 }
 
-@media (max-width:400px){
+@media (max-width:401px){
     .btn_section{
-      width: 95%;
+      width: 90%;
     }
 }
