@@ -1,0 +1,31 @@
+.sec_input_busca {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5px 10px;
+    border:2px solid #f3f3f3;
+    border-radius: 20px;
+}
+
+.sec_input_busca img {
+    width: 30px;
+    height: 30px;
+}
+
+.sec_input_busca input {
+    width: 90%;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 10px;
+    border: none;
+    outline: none;
+    color: #000;
+    border-radius: 20px;
+
+}
+
+.sec_input_busca input:hover::placeholder {
+    text-decoration: underline;
+    color: #9a9a9a;
+}
+
