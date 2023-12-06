@@ -82,10 +82,10 @@
     }
 }
 
-@media (max-width:376px){
+@media (max-width:400px){
     .banner {
         background-size: cover;
-        height: 60vh;
+        height: 80vh;
     }
 
     .banner_content h1{
