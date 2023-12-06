@@ -10,3 +10,17 @@
     width: 100%;
     margin: 0 auto;
 }
+
+
+/* responsivo */
+
+@media (max-width:401px){
+    .limite-largura{
+        width: 95%;
+    }
+}
+@media (min-width:402px) and (max-width:768px){
+    .limite-largura{
+        width: 95%;
+    }
+}
